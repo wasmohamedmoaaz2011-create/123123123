@@ -1,0 +1,34 @@
+{
+  "short_name": "مس الاء رمضان",
+  "name": "سيستم مس الاء رمضان",
+  "description": "سيستم مس الاء رمضان لإدارة المجموعات والطلاب والدرجات والحضور والمدفوعات",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false
+}
